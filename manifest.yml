@@ -1,0 +1,8 @@
+applications:
+- path: target/JavaHelloWorldApp.war
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: rlc0034-4th
+  host: rlc0034-4th
+  disk_quota: 1024M
